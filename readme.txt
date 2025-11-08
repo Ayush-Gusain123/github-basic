@@ -15,7 +15,7 @@ it also create  a.git folder that has all the relevent logic to manage version o
   8) git commit->registered staging changes to comit;
   9)git log->list down alll the comiy of all repo. if u want to exit out of git log prompt press'q'
   10)git restore<file>-> it remove all the file changes from the stagging area to comiited.
-
+ayush 1
   ayush
   piyush
   
