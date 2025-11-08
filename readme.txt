@@ -1,6 +1,6 @@
 1)'git init'=>powers your folder tobe managed by git, and initialised a new empty repoit .
 it also create  a.git folder that has all the relevent logic to manage version of your code.
-2)'working area ->there can be bunch of file that not currently handled by git..
+2)'working area ->there can be bunch of file that not currently handled by git.. //nkm
  it means that changes done or to ne done in those files are not managed by git yut.
  a file which is in working area is consideredto be not in the staging area.when  we do git status and we see abunch 
  if untracked files these are actually called to be in the wokring area,.
